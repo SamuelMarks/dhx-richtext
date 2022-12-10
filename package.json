@@ -14,7 +14,7 @@
   "devDependencies": {
     "busboy": "^0.2.14",
     "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "opn": "^5.3.0"
   },
   "main": "codebase/richtext.js",
